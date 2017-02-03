@@ -18,6 +18,8 @@ public class JavaApplication17 {
         // TODO code application logic here
         
         System.out.println(" Es mi primer ejermplo de GitHub");
+        System.out.println("Rama 1");
+        System.out.println("1234");
         
         
         
